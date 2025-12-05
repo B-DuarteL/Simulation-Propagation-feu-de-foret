@@ -1,11 +1,3 @@
-Projet_Feu /
-| - - main . py 
-| - - moteur . py
-| - - site_web /
-| - - index . html
-| - - style . css
-| - - images /
-
 import random
 VIDE , ARBRE , FEU , CENDRES = 0 , 1 , 2 , 3
 def generer_foret (n , densite =0.65) :
